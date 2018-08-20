@@ -29,4 +29,4 @@ GO
 ## Whats Next?
 This small script component was created for fun. The idea came from a request i had years back on a older version of SQL Server, and i thought that this new updated version might be useful for someone.
 
-If you have any change requests or ideas for further development on this script, fell free to contribute to the solution or contact me at mjo@pro-solution.dk.
+If you have any change requests or ideas for further development on this script, fell free to contribute to the solution or contact me at mjo@pro-solution.dk or visit our homepage http://pro-solution.dk.
