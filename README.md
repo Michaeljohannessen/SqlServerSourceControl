@@ -1,4 +1,4 @@
-# MSSQL Source Control
+# Microsoft SQL Server Database Source Control
 This repository contains a script that creates a table to hold information about changes made on the aimed database.  
 
 ## Requirements
